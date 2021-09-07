@@ -2,7 +2,9 @@
 
 ### I'm a Computer Science Student 
 
-- 🎓 2nd year student at Victoria University of Wellington, New Zealand
+- 🎓 Second year student at Victoria University of Wellington, New Zealand
+- 💡  Constant desire to learn new skills and adapt
+- 📚 Passion for reading
 
 ## Languages
 
