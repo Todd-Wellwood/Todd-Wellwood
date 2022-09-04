@@ -1,4 +1,4 @@
-## Hi there, My name is Todd!
+## Hi there, my name is Todd!
 
 ### I'm a Computer Science Student 
 
