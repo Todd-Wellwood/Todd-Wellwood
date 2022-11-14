@@ -1,8 +1,8 @@
 ## Hi there, my name is Todd!
 
-### I'm a Computer Science Student 
+### I'm a QA Engineer 
 
-- 🎓 Third year student at Victoria University of Wellington, New Zealand
+- 🎓Computer Science graduate from Victoria University of Wellington, New Zealand
 - 💡  Constant desire to learn new skills and adapt
 - 📚 Passion for reading
 
