@@ -1,6 +1,6 @@
 ## Hi there, my name is Todd!
 
-### I'm a QA Engineer 
+### I'm a Software Engineer / QA Automation Engineer 
 
 - 🎓Computer Science graduate from Victoria University of Wellington, New Zealand
 - 💡  Constant desire to learn new skills and adapt
