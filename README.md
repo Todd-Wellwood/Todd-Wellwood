@@ -7,23 +7,23 @@
 - 📚 Passion for reading
 
 ## Languages 
-
 <img align="left" alt="Java" width="26px" src="https://icon-library.com/images/java-icon-images/java-icon-images-0.jpg" />
 <img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" />
+<img align="left" alt="YAML" width="26px" src="https://user-images.githubusercontent.com/11204251/67950010-dce31500-fbb6-11e9-8e7e-dba59a15a4e6.png" />
+<img align="left" alt="SQL" width="26px" src="https://img.freepik.com/free-icon/sql-file-format-symbol_318-45406.jpg" />
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="C#" width="26px" src="https://docs.microsoft.com/cs-cz/windows/images/csharp-logo.png" />
-<img align="left" alt="YAML" width="26px" src="https://user-images.githubusercontent.com/11204251/67950010-dce31500-fbb6-11e9-8e7e-dba59a15a4e6.png" />
-<img align="left" alt="SQL" width="26px" src="https://img.freepik.com/free-icon/sql-file-format-symbol_318-45406.jpg" />
-
+<img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" />
 <br>
 
 ## Testing Frameworks
 <img align="left" alt="Selenium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/640px-Selenium_Logo.png" />
-<img align="left" alt="Cypress" width="26px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/q1cwqhahz7jbtfzalznd" />
+<img align="left" alt="Cypress" width="26px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/q1cwqhahz7jbtfzalznd](https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" />
 <img align="left" alt="Detox" width="26px" src="https://raw.githubusercontent.com/wix/Detox/master/docs/img/DetoxLogo.png" />
 <img align="left" alt="Appium" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/appium-logo-vector.svg" />
 <img align="left" alt="REST Assured" width="26px" src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" />
+<img align="left" alt="Cucumber" width="26px" src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" />
 
 <br>
 
@@ -39,5 +39,4 @@
 <br>
 
 ## Connect With Me
-
 [<img align="left" alt="Linkedin" width="26px" src="https://icon-library.com/images/linkedin-icon-no-background/linkedin-icon-no-background-18.jpg"/>](https://www.linkedin.com/in/todd-wellwood/)
