@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineer / QA Automation Engineer 
 
-- 🎓Computer Science graduate from Victoria University of Wellington, New Zealand
+- 🛠️ Full-stack developer, also specialising in web, mobile, and API test automation
 - 💡  Constant desire to learn new skills and adapt
 - 📚 Passion for reading
 
