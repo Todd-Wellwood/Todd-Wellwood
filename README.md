@@ -8,6 +8,7 @@
 
 ## Languages 
 <img align="left" alt="Java" width="26px" src="https://icon-library.com/images/java-icon-images/java-icon-images-0.jpg" />
+<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" />
 <img align="left" alt="YAML" width="26px" src="https://user-images.githubusercontent.com/11204251/67950010-dce31500-fbb6-11e9-8e7e-dba59a15a4e6.png" />
 <img align="left" alt="SQL" width="26px" src="https://img.freepik.com/free-icon/sql-file-format-symbol_318-45406.jpg" />
@@ -23,7 +24,7 @@
 <img align="left" alt="Detox" width="26px" src="https://raw.githubusercontent.com/wix/Detox/master/docs/img/DetoxLogo.png" />
 <img align="left" alt="Appium" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/appium-logo-vector.svg" />
 <img align="left" alt="REST Assured" width="26px" src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" />
-<img align="left" alt="Cucumber" width="26px" src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" />
+<img align="left" alt="Cucumber" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-cucumber-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175236.png?f=webp&w=256" />
 
 <br>
 
