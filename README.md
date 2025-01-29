@@ -2,8 +2,9 @@
 
 ### I'm a Software Engineer / QA Automation Engineer 
 
-- 🛠️ Full-stack developer, also specialising in web, mobile, and API test automation
-- 💡  Constant desire to learn new skills and adapt
+- 🛠️ Full-stack developer, Web, Mobile, and API
+- ✅ Automation testing
+- 💡 Constant desire to learn new skills and adapt
 - 📚 Passion for reading
 
 ## Languages 
