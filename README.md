@@ -1,6 +1,6 @@
 ## Hi there, my name is Todd!
 
-### I'm a Software Engineer / QA Automation Engineer 
+### I'm a Software Engineer, previously a QA Automation Engineer 
 
 - 🛠️ Full-stack developer, Web, Mobile, and API
 - ✅ Automation testing
