@@ -8,7 +8,7 @@
 - 📚 Passion for reading
 
 ## Languages 
-<img align="left" alt="Java" width="26px" src="https://icon-library.com/images/java-icon-images/java-icon-images-0.jpg" />
+<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" />
 <img align="left" alt="YAML" width="26px" src="https://user-images.githubusercontent.com/11204251/67950010-dce31500-fbb6-11e9-8e7e-dba59a15a4e6.png" />
@@ -36,10 +36,10 @@
 <img align="left" alt="Azure Data Studio" width="26px" src="https://user-images.githubusercontent.com/10014944/136142919-9862b62f-3036-40fe-a380-b86fe005c27e.png" />
 <img align="left" alt="SoapUI" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxOztDgowJY1daNu2XWaTbeXevGRMTQBOLoBK7IVr6qiCD61g6u3qE5fNcx_VVGN-Dbv4&usqp=CAU" />
 <img align="left" alt="Burp Suite" width="26px" src="https://w7.pngwing.com/pngs/276/718/png-transparent-burp-suite-alt-macos-bigsur-icon-thumbnail.png" />
-<img align="left" alt="Docker" width="26px" src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" />
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
-
+<br>
 <br>
 
 ## Connect With Me 
-[<img align="left" alt="Linkedin" width="26px" src="https://icon-library.com/images/linkedin-icon-no-background/linkedin-icon-no-background-18.jpg"/>](https://www.linkedin.com/in/todd-wellwood/)
+[<img align="left" alt="Linkedin" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/todd-wellwood/)
