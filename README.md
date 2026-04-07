@@ -4,6 +4,7 @@
 
 - 🛠️ Full-stack developer, Web, Mobile, and API
 - ✅ Automation testing
+- 🎮 Sole developer of hit app Transit Empire - https://play.google.com/store/apps/details?id=com.transit.empire
 - 💡 Constant desire to learn new skills and adapt
 - 📚 Passion for reading
 
@@ -13,14 +14,14 @@
 <img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" />
 <img align="left" alt="YAML" width="26px" src="https://user-images.githubusercontent.com/11204251/67950010-dce31500-fbb6-11e9-8e7e-dba59a15a4e6.png" />
 <img align="left" alt="SQL" width="26px" src="https://img.freepik.com/free-icon/sql-file-format-symbol_318-45406.jpg" />
-<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="C#" width="26px" src="https://docs.microsoft.com/cs-cz/windows/images/csharp-logo.png" />
-<img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" />
+<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <br>
 
 ## Testing Frameworks
-<img align="left" alt="Selenium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/640px-Selenium_Logo.png" />
+<img align="left" alt="Selenium" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 <img align="left" alt="Cypress" width="26px" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" />
 <img align="left" alt="Detox" width="26px" src="https://raw.githubusercontent.com/wix/Detox/master/docs/img/DetoxLogo.png" />
 <img align="left" alt="Appium" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/appium-logo-vector.svg" />
