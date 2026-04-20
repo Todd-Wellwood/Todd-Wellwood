@@ -10,8 +10,8 @@
 
 ## Languages 
 <img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
-<img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="YAML" width="26px" src="https://user-images.githubusercontent.com/11204251/67950010-dce31500-fbb6-11e9-8e7e-dba59a15a4e6.png" />
 <img align="left" alt="SQL" width="26px" src="https://img.freepik.com/free-icon/sql-file-format-symbol_318-45406.jpg" />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -31,7 +31,7 @@
 <br>
 
 ## Tools
-<img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
+<img align="left" alt="IntelliJ IDEA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img align="left" alt="Postman API Platform" width="26px" src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" />
 <img align="left" alt="Termius" width="26px" src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/95/14/6d/95146d99-693a-5cac-70f0-ae98dfe4e2fd/Termius.png/1200x630bb.png" />
 <img align="left" alt="Azure Data Studio" width="26px" src="https://user-images.githubusercontent.com/10014944/136142919-9862b62f-3036-40fe-a380-b86fe005c27e.png" />
